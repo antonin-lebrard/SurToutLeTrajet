@@ -40,6 +40,8 @@ function redirectAllEventListenerToGmaps(){
         const { width, height } = nwWindow
         newE = new MouseEvent(e.type, {
           'view': window,
+          'altKey': e.altKey,
+          'ctrlKey': e.ctrlKey,
           'isTrusted': true,
           'bubbles': true,
           'cancelable': true,
