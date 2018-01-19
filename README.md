@@ -5,17 +5,17 @@ For the moment only the reverse effect has been done.
 
 ## How to launch it:
 
-You'll probably want the SDK version if you want to help, else go for the normal version from here: https://nwjs.io/downloads/
+You'll probably want the SDK version of `nw.js` if you want to help, else go for the normal version from here: https://nwjs.io/downloads/
 
-I have a bad connection, so uploading the whole package nw.js is a no-go. So you will have to download it from the link just upper.
+I have a bad connection, so uploading the whole package `nw.js` is a no-go. So you will have to download it from the link just upper.
 
 Some instructions:<br>
-Once the nw.js package has been downloaded, unzip it somewhere.<br>
+Once the `nw.js` package has been downloaded, unzip it somewhere.<br>
 Download this repo by clicking on the green button 'Clone or Download' and there will be a button to download it as a zip.<br>
-Unzip this repo in the nw.js directory (where there is the 'nw.exe' on Windows, or the executable 'nw' on Linux)<br>
+Unzip this repo in the `nw.js` directory (where there is the 'nw.exe' on Windows, or the executable 'nw' on Linux)<br>
 Double click the nw executable, and it should launch a new window called 'Sur tout le trajet'.
 
-If nothing happens for 2 seconds or more, try to relaunch the nw.js executable 1 or 2 times. 
+If nothing happens for 2 seconds or more, try to relaunch the `nw.js` executable 1 or 2 times. 
 
 ## Technical part
 
