@@ -1,0 +1,6 @@
+{
+  "name": "Sur tout le trajet",
+  "main": "index.html",
+  "node": true,
+  "node-remote": "https://www.google.com"
+}

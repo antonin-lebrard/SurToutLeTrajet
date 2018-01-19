@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sur la route</title>
+    <script src="index.js"></script>
+    <style>
+        #video {
+            -webkit-transform: rotate(180deg); /* Safari and Chrome */
+            transform: rotate(180deg);
+        }
+    </style>
+</head>
+<body style="margin: 0;">
+<iframe id="map"
+        src="https://www.google.com/maps/@68.483139,16.7026189,756a,35y,0.84h,59.06t/data=!3m1!1e3"
+        frameborder="0"
+        nwfaketop
+        nwdisable
+        style="position: absolute; left: 0; width: 99%; height: 100%; visibility: hidden;"></iframe>
+<video id="video"
+        autoplay
+        style="position: absolute; width: 99%; height: 100%;"></video>
+</body>
+</html>
