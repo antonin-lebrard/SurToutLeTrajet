@@ -7,10 +7,9 @@ Pour le moment seulement l'effet inversé est fait.
 
 ## Le Lancer:
 
-Va falloir télecharger `nw.js` ici: https://nwjs.io/downloads/, le SDK c'est globalement pour avoir des outils de dev en plus,
+Ayant une mauvaise connexion, uploader tout le package `nw.js` est pas vraiment possible, donc va falloir télecharger `nw.js` ici:
+https://nwjs.io/downloads/, le package normal suffit, le SDK c'est globalement pour avoir des outils de dev en plus,
 donc pas nécessaire pour l'application.
-
-J'ai une mauvaise connexion, donc uploader tout le package `nw.js` n'est pas vraiment possible. Donc va falloir le télecharger avec le lien juste au-dessus.
 
 Quelques instructions:<br>
 - Une fois `nw.js` télechargé, dezippez le quelque part.<br>
